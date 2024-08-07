@@ -69,6 +69,7 @@ describe('.towelSort, should perfrom \'towelSort\'', () => {
     ];
 
     assert.deepEqual(towelSort(matrix), [ 1, 2, 4, 8, 7, 6, 5, 9, 12 ]);
-  });
+  }
+  );
 
 });
